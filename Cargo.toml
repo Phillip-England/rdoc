@@ -1,0 +1,10 @@
+[package]
+name = "rdoc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Phillip England"]
+description = "A lightweight HTML parser written in Rust"
+license = "MIT"
+respository = "https://github.com/phillip-england/rdoc"
+
+[dependencies]
